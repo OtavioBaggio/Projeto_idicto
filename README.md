@@ -1,6 +1,6 @@
-# idicto
+# IDICTO
 
-Projeto em desenvolvimento em conjunto com os alunos de psicologia da UFN - Universidade Franciscana 
+Projeto em desenvolvimento, realizado em conjunto com os alunos do curso de psicologia da UFN - Universidade Franciscana. 
 
 ## Sobre o projeto
 
